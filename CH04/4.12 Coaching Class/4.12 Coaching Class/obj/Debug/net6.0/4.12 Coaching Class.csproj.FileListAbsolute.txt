@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\bin\Debug\net6.0\4.12 Coaching Class.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\bin\Debug\net6.0\4.12 Coaching Class.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\bin\Debug\net6.0\4.12 Coaching Class.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\bin\Debug\net6.0\4.12 Coaching Class.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\bin\Debug\net6.0\4.12 Coaching Class.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\4.12 Coaching Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\4.12 Coaching Class.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\4.12 Coaching Class.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\4.12 Coaching Class.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\4.12 Coaching Class.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\refint\4.12 Coaching Class.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\4.12 Coaching Class.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\4.12 Coaching Class.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.12 Coaching Class\4.12 Coaching Class\obj\Debug\net6.0\ref\4.12 Coaching Class.dll

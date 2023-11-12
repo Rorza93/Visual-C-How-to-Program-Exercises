@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\AccountTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\AccountTest.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\AccountTest.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\AccountTest.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\bin\Debug\net6.0\AccountTest.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\bin\Debug\net6.0\AccountTest.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\bin\Debug\net6.0\AccountTest.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\bin\Debug\net6.0\AccountTest.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\bin\Debug\net6.0\AccountTest.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\AccountTest.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\refint\AccountTest.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\AccountTest.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\AccountTest.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\AccountTest\AccountTest\obj\Debug\net6.0\ref\AccountTest.dll

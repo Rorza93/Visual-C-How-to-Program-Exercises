@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\bin\Debug\net6.0\Welcome 4.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\bin\Debug\net6.0\Welcome 4.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\bin\Debug\net6.0\Welcome 4.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\bin\Debug\net6.0\Welcome 4.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\bin\Debug\net6.0\Welcome 4.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\Welcome 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\Welcome 4.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\Welcome 4.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\Welcome 4.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\Welcome 4.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\refint\Welcome 4.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\Welcome 4.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\Welcome 4.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Welcome 4\Welcome 4\obj\Debug\net6.0\ref\Welcome 4.dll

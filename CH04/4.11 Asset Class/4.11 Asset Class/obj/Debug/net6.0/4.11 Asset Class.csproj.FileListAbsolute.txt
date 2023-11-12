@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\4.11 Asset Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\4.11 Asset Class.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\4.11 Asset Class.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\4.11 Asset Class.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\bin\Debug\net6.0\4.11 Asset Class.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\bin\Debug\net6.0\4.11 Asset Class.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\bin\Debug\net6.0\4.11 Asset Class.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\bin\Debug\net6.0\4.11 Asset Class.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\bin\Debug\net6.0\4.11 Asset Class.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\4.11 Asset Class.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\refint\4.11 Asset Class.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\4.11 Asset Class.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\4.11 Asset Class.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.11 Asset Class\4.11 Asset Class\obj\Debug\net6.0\ref\4.11 Asset Class.dll

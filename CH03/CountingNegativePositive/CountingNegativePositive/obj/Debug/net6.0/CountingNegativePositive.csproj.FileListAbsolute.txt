@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\bin\Debug\net6.0\CountingNegativePositive.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\bin\Debug\net6.0\CountingNegativePositive.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\bin\Debug\net6.0\CountingNegativePositive.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\bin\Debug\net6.0\CountingNegativePositive.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\bin\Debug\net6.0\CountingNegativePositive.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\CountingNegativePositive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\CountingNegativePositive.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\CountingNegativePositive.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\CountingNegativePositive.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\CountingNegativePositive.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\refint\CountingNegativePositive.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\CountingNegativePositive.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\CountingNegativePositive.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\CountingNegativePositive\CountingNegativePositive\obj\Debug\net6.0\ref\CountingNegativePositive.dll

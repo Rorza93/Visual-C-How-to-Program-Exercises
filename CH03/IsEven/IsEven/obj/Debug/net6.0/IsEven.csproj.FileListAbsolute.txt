@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\bin\Debug\net6.0\IsEven.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\bin\Debug\net6.0\IsEven.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\bin\Debug\net6.0\IsEven.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\bin\Debug\net6.0\IsEven.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\bin\Debug\net6.0\IsEven.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\IsEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\IsEven.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\IsEven.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\IsEven.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\IsEven.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\refint\IsEven.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\IsEven.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\IsEven.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\IsEven\IsEven\obj\Debug\net6.0\ref\IsEven.dll

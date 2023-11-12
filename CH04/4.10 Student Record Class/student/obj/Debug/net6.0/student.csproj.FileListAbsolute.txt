@@ -1,0 +1,28 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\bin\Debug\net6.0\student.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\bin\Debug\net6.0\student.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\bin\Debug\net6.0\student.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\bin\Debug\net6.0\student.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\bin\Debug\net6.0\student.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\student.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\student.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\student.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\student.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\refint\student.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\student.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\student.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\student\student\obj\Debug\net6.0\ref\student.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\bin\Debug\net6.0\student.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\bin\Debug\net6.0\student.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\bin\Debug\net6.0\student.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\bin\Debug\net6.0\student.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\bin\Debug\net6.0\student.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\student.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\student.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\student.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\student.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\refint\student.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\student.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\student.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.10 Student Record Class\student\obj\Debug\net6.0\ref\student.dll

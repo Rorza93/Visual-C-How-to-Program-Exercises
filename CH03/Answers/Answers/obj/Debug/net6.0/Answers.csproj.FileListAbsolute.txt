@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\bin\Debug\net6.0\Answers.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\bin\Debug\net6.0\Answers.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\bin\Debug\net6.0\Answers.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\bin\Debug\net6.0\Answers.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\bin\Debug\net6.0\Answers.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\Answers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\Answers.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\Answers.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\Answers.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\Answers.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\refint\Answers.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\Answers.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\Answers.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Answers\Answers\obj\Debug\net6.0\ref\Answers.dll

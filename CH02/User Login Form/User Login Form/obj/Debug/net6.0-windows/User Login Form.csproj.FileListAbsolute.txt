@@ -1,0 +1,16 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\bin\Debug\net6.0-windows\User Login Form.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\bin\Debug\net6.0-windows\User Login Form.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\bin\Debug\net6.0-windows\User Login Form.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\bin\Debug\net6.0-windows\User Login Form.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\bin\Debug\net6.0-windows\User Login Form.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User_Login_Form.Form1.resources
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.csproj.GenerateResource.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\refint\User Login Form.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\User Login Form.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH02\User Login Form\User Login Form\obj\Debug\net6.0-windows\ref\User Login Form.dll

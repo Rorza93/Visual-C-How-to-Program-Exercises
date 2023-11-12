@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\bin\Debug\net6.0\4.14 Target Heart-Rate Calculator.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\bin\Debug\net6.0\4.14 Target Heart-Rate Calculator.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\bin\Debug\net6.0\4.14 Target Heart-Rate Calculator.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\bin\Debug\net6.0\4.14 Target Heart-Rate Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\bin\Debug\net6.0\4.14 Target Heart-Rate Calculator.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\4.14 Target Heart-Rate Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\4.14 Target Heart-Rate Calculator.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\4.14 Target Heart-Rate Calculator.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\4.14 Target Heart-Rate Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\4.14 Target Heart-Rate Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\refint\4.14 Target Heart-Rate Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\4.14 Target Heart-Rate Calculator.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\4.14 Target Heart-Rate Calculator.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\4.14 Target Heart-Rate Calculator\4.14 Target Heart-Rate Calculator\obj\Debug\net6.0\ref\4.14 Target Heart-Rate Calculator.dll

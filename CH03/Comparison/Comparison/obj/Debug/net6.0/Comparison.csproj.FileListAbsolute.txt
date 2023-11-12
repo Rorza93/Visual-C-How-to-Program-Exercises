@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\bin\Debug\net6.0\Comparison.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\bin\Debug\net6.0\Comparison.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\bin\Debug\net6.0\Comparison.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\bin\Debug\net6.0\Comparison.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\bin\Debug\net6.0\Comparison.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\Comparison.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\refint\Comparison.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\Comparison.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\Comparison.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH03\Comparison\Comparison\obj\Debug\net6.0\ref\Comparison.dll
