@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\bin\Debug\net6.0\5.XX ClassAverage.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\bin\Debug\net6.0\5.XX ClassAverage.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\bin\Debug\net6.0\5.XX ClassAverage.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\bin\Debug\net6.0\5.XX ClassAverage.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\bin\Debug\net6.0\5.XX ClassAverage.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\5.XX ClassAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\5.XX ClassAverage.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\5.XX ClassAverage.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\5.XX ClassAverage.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\5.XX ClassAverage.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\refint\5.XX ClassAverage.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\5.XX ClassAverage.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\5.XX ClassAverage.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH04\5.XX ClassAverage\5.XX ClassAverage\obj\Debug\net6.0\ref\5.XX ClassAverage.dll
