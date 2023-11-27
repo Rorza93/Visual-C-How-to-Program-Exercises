@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\bin\Debug\net6.0\5.XX Fig 5.16 Increment.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\bin\Debug\net6.0\5.XX Fig 5.16 Increment.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\bin\Debug\net6.0\5.XX Fig 5.16 Increment.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\bin\Debug\net6.0\5.XX Fig 5.16 Increment.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\bin\Debug\net6.0\5.XX Fig 5.16 Increment.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\5.XX Fig 5.16 Increment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\5.XX Fig 5.16 Increment.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\5.XX Fig 5.16 Increment.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\5.XX Fig 5.16 Increment.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\5.XX Fig 5.16 Increment.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\refint\5.XX Fig 5.16 Increment.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\5.XX Fig 5.16 Increment.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\5.XX Fig 5.16 Increment.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.XX Fig 5.16 Increment\5.XX Fig 5.16 Increment\obj\Debug\net6.0\ref\5.XX Fig 5.16 Increment.dll

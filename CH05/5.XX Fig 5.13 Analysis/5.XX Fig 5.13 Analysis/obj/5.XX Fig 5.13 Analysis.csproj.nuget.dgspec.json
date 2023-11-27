@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH04\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator.csproj": {}
+    "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH05\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH04\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator.csproj": {
+    "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH05\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH04\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator.csproj",
-        "projectName": "4.14 Target Heart-Rate Calculator",
-        "projectPath": "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH04\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH05\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis.csproj",
+        "projectName": "5.XX Fig 5.13 Analysis",
+        "projectPath": "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH05\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis.csproj",
         "packagesPath": "C:\\Users\\Ridge Right\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH04\\4.14 Target Heart-Rate Calculator\\4.14 Target Heart-Rate Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Ridge Right\\Documents\\Code\\C#\\MyCSharp\\CH05\\5.XX Fig 5.13 Analysis\\5.XX Fig 5.13 Analysis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ridge Right\\AppData\\Roaming\\NuGet\\NuGet.Config",

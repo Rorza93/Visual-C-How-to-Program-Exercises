@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\bin\Debug\net6.0\5.17 interest.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\bin\Debug\net6.0\5.17 interest.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\bin\Debug\net6.0\5.17 interest.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\bin\Debug\net6.0\5.17 interest.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\bin\Debug\net6.0\5.17 interest.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\5.17 interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\5.17 interest.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\5.17 interest.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\5.17 interest.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\5.17 interest.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\refint\5.17 interest.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\5.17 interest.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\5.17 interest.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.17 interest\5.17 interest\obj\Debug\net6.0\ref\5.17 interest.dll
