@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\bin\Debug\net6.0\5.23 Find the Two Largest Numbers.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\bin\Debug\net6.0\5.23 Find the Two Largest Numbers.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\bin\Debug\net6.0\5.23 Find the Two Largest Numbers.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\bin\Debug\net6.0\5.23 Find the Two Largest Numbers.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\bin\Debug\net6.0\5.23 Find the Two Largest Numbers.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\5.23 Find the Two Largest Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\5.23 Find the Two Largest Numbers.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\5.23 Find the Two Largest Numbers.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\5.23 Find the Two Largest Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\5.23 Find the Two Largest Numbers.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\refint\5.23 Find the Two Largest Numbers.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\5.23 Find the Two Largest Numbers.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\5.23 Find the Two Largest Numbers.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.23 Find the Two Largest Numbers\5.23 Find the Two Largest Numbers\obj\Debug\net6.0\ref\5.23 Find the Two Largest Numbers.dll
