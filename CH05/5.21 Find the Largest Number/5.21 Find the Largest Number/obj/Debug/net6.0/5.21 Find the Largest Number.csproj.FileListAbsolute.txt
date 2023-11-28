@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\bin\Debug\net6.0\5.21 Find the Largest Number.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\bin\Debug\net6.0\5.21 Find the Largest Number.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\bin\Debug\net6.0\5.21 Find the Largest Number.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\bin\Debug\net6.0\5.21 Find the Largest Number.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\bin\Debug\net6.0\5.21 Find the Largest Number.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\5.21 Find the Largest Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\5.21 Find the Largest Number.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\5.21 Find the Largest Number.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\5.21 Find the Largest Number.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\5.21 Find the Largest Number.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\refint\5.21 Find the Largest Number.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\5.21 Find the Largest Number.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\5.21 Find the Largest Number.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.21 Find the Largest Number\5.21 Find the Largest Number\obj\Debug\net6.0\ref\5.21 Find the Largest Number.dll

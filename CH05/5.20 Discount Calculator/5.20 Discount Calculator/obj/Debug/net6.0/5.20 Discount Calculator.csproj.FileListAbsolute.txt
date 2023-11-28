@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\bin\Debug\net6.0\5.20 Discount Calculator.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\bin\Debug\net6.0\5.20 Discount Calculator.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\bin\Debug\net6.0\5.20 Discount Calculator.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\bin\Debug\net6.0\5.20 Discount Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\bin\Debug\net6.0\5.20 Discount Calculator.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\5.20 Discount Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\5.20 Discount Calculator.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\5.20 Discount Calculator.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\5.20 Discount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\5.20 Discount Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\refint\5.20 Discount Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\5.20 Discount Calculator.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\5.20 Discount Calculator.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.20 Discount Calculator\5.20 Discount Calculator\obj\Debug\net6.0\ref\5.20 Discount Calculator.dll
