@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.22 Tabular Output", "5.22 Tabular Output\5.22 Tabular Output.csproj", "{70FC5934-7541-4C43-AEF3-6F056441027F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FC5934-7541-4C43-AEF3-6F056441027F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FC5934-7541-4C43-AEF3-6F056441027F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FC5934-7541-4C43-AEF3-6F056441027F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FC5934-7541-4C43-AEF3-6F056441027F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A97E54-8DF1-46AC-8EE9-DA51DE700C85}
+	EndGlobalSection
+EndGlobal

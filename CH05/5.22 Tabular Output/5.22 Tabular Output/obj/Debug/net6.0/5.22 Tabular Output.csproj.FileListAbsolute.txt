@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\bin\Debug\net6.0\5.22 Tabular Output.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\bin\Debug\net6.0\5.22 Tabular Output.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\bin\Debug\net6.0\5.22 Tabular Output.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\bin\Debug\net6.0\5.22 Tabular Output.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\bin\Debug\net6.0\5.22 Tabular Output.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\5.22 Tabular Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\5.22 Tabular Output.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\5.22 Tabular Output.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\5.22 Tabular Output.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\5.22 Tabular Output.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\refint\5.22 Tabular Output.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\5.22 Tabular Output.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\5.22 Tabular Output.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.22 Tabular Output\5.22 Tabular Output\obj\Debug\net6.0\ref\5.22 Tabular Output.dll
