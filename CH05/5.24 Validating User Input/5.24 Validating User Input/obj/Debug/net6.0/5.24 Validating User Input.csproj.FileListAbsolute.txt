@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\bin\Debug\net6.0\5.24 Validating User Input.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\bin\Debug\net6.0\5.24 Validating User Input.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\bin\Debug\net6.0\5.24 Validating User Input.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\bin\Debug\net6.0\5.24 Validating User Input.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\bin\Debug\net6.0\5.24 Validating User Input.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\5.24 Validating User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\5.24 Validating User Input.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\5.24 Validating User Input.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\5.24 Validating User Input.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\5.24 Validating User Input.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\refint\5.24 Validating User Input.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\5.24 Validating User Input.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\5.24 Validating User Input.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.24 Validating User Input\5.24 Validating User Input\obj\Debug\net6.0\ref\5.24 Validating User Input.dll
