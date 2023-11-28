@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\bin\Debug\net6.0\5.18 Inventory Level Calculator.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\bin\Debug\net6.0\5.18 Inventory Level Calculator.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\bin\Debug\net6.0\5.18 Inventory Level Calculator.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\bin\Debug\net6.0\5.18 Inventory Level Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\bin\Debug\net6.0\5.18 Inventory Level Calculator.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\5.18 Inventory Level Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\5.18 Inventory Level Calculator.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\5.18 Inventory Level Calculator.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\5.18 Inventory Level Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\5.18 Inventory Level Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\refint\5.18 Inventory Level Calculator.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\5.18 Inventory Level Calculator.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\5.18 Inventory Level Calculator.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.18 Inventory Level Calculator\5.18 Inventory Level Calculator\obj\Debug\net6.0\ref\5.18 Inventory Level Calculator.dll

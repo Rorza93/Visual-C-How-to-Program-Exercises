@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\bin\Debug\net6.0\5.19 Sales-Commission Calculator).exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\bin\Debug\net6.0\5.19 Sales-Commission Calculator).deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\bin\Debug\net6.0\5.19 Sales-Commission Calculator).runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\bin\Debug\net6.0\5.19 Sales-Commission Calculator).dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\bin\Debug\net6.0\5.19 Sales-Commission Calculator).pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\5.19 Sales-Commission Calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\5.19 Sales-Commission Calculator).AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\5.19 Sales-Commission Calculator).AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\5.19 Sales-Commission Calculator).csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\5.19 Sales-Commission Calculator).dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\refint\5.19 Sales-Commission Calculator).dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\5.19 Sales-Commission Calculator).pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\5.19 Sales-Commission Calculator).genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.19 Sales-Commission Calculator)\5.19 Sales-Commission Calculator)\obj\Debug\net6.0\ref\5.19 Sales-Commission Calculator).dll
