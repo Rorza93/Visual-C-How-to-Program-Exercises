@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\bin\Debug\net6.0\5.25 Mystery2.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\bin\Debug\net6.0\5.25 Mystery2.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\bin\Debug\net6.0\5.25 Mystery2.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\bin\Debug\net6.0\5.25 Mystery2.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\bin\Debug\net6.0\5.25 Mystery2.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\5.25 Mystery2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\5.25 Mystery2.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\5.25 Mystery2.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\5.25 Mystery2.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\5.25 Mystery2.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\refint\5.25 Mystery2.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\5.25 Mystery2.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\5.25 Mystery2.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.25 Mystery2\5.25 Mystery2\obj\Debug\net6.0\ref\5.25 Mystery2.dll
