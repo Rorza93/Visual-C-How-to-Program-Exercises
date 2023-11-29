@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\bin\Debug\net6.0\5.30 Rectangle of Asterix.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\bin\Debug\net6.0\5.30 Rectangle of Asterix.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\bin\Debug\net6.0\5.30 Rectangle of Asterix.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\bin\Debug\net6.0\5.30 Rectangle of Asterix.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\bin\Debug\net6.0\5.30 Rectangle of Asterix.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\5.30 Rectangle of Asterix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\5.30 Rectangle of Asterix.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\5.30 Rectangle of Asterix.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\5.30 Rectangle of Asterix.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\5.30 Rectangle of Asterix.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\refint\5.30 Rectangle of Asterix.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\5.30 Rectangle of Asterix.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\5.30 Rectangle of Asterix.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.30 Rectangle of Asterix\5.30 Rectangle of Asterix\obj\Debug\net6.0\ref\5.30 Rectangle of Asterix.dll
