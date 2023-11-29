@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\bin\Debug\net6.0\5.27 Dangling-else Problem.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\bin\Debug\net6.0\5.27 Dangling-else Problem.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\bin\Debug\net6.0\5.27 Dangling-else Problem.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\bin\Debug\net6.0\5.27 Dangling-else Problem.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\bin\Debug\net6.0\5.27 Dangling-else Problem.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\5.27 Dangling-else Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\5.27 Dangling-else Problem.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\5.27 Dangling-else Problem.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\5.27 Dangling-else Problem.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\5.27 Dangling-else Problem.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\refint\5.27 Dangling-else Problem.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\5.27 Dangling-else Problem.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\5.27 Dangling-else Problem.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.27 Dangling-else Problem\5.27 Dangling-else Problem\obj\Debug\net6.0\ref\5.27 Dangling-else Problem.dll
