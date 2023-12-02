@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\bin\Debug\net6.0\5.31 Expanded Form.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\bin\Debug\net6.0\5.31 Expanded Form.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\bin\Debug\net6.0\5.31 Expanded Form.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\bin\Debug\net6.0\5.31 Expanded Form.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\bin\Debug\net6.0\5.31 Expanded Form.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\5.31 Expanded Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\5.31 Expanded Form.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\5.31 Expanded Form.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\5.31 Expanded Form.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\5.31 Expanded Form.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\refint\5.31 Expanded Form.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\5.31 Expanded Form.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\5.31 Expanded Form.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.31 Expanded Form\5.31 Expanded Form\obj\Debug\net6.0\ref\5.31 Expanded Form.dll
