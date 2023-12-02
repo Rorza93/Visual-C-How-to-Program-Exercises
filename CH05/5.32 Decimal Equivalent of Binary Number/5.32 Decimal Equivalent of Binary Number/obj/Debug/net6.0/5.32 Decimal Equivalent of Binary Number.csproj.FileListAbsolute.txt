@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\bin\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\bin\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\bin\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\bin\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\bin\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\refint\5.32 Decimal Equivalent of Binary Number.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\5.32 Decimal Equivalent of Binary Number.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.32 Decimal Equivalent of Binary Number\5.32 Decimal Equivalent of Binary Number\obj\Debug\net6.0\ref\5.32 Decimal Equivalent of Binary Number.dll
