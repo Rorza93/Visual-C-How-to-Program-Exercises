@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.36 Angles of a Quadrilateral", "5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral.csproj", "{A084DF46-8D39-48C8-A01A-ECBBCB7CAC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A084DF46-8D39-48C8-A01A-ECBBCB7CAC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A084DF46-8D39-48C8-A01A-ECBBCB7CAC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A084DF46-8D39-48C8-A01A-ECBBCB7CAC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A084DF46-8D39-48C8-A01A-ECBBCB7CAC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D61AE9E2-3169-4BCE-8BA8-36B089C72215}
+	EndGlobalSection
+EndGlobal

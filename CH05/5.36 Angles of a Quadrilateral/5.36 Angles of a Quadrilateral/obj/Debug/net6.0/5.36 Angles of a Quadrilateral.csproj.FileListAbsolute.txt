@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\bin\Debug\net6.0\5.36 Angles of a Quadrilateral.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\bin\Debug\net6.0\5.36 Angles of a Quadrilateral.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\bin\Debug\net6.0\5.36 Angles of a Quadrilateral.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\bin\Debug\net6.0\5.36 Angles of a Quadrilateral.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\bin\Debug\net6.0\5.36 Angles of a Quadrilateral.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\5.36 Angles of a Quadrilateral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\5.36 Angles of a Quadrilateral.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\5.36 Angles of a Quadrilateral.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\5.36 Angles of a Quadrilateral.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\5.36 Angles of a Quadrilateral.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\refint\5.36 Angles of a Quadrilateral.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\5.36 Angles of a Quadrilateral.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\5.36 Angles of a Quadrilateral.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.36 Angles of a Quadrilateral\5.36 Angles of a Quadrilateral\obj\Debug\net6.0\ref\5.36 Angles of a Quadrilateral.dll

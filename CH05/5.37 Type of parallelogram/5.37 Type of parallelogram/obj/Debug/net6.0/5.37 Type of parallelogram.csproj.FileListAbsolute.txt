@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\bin\Debug\net6.0\5.37 Type of parallelogram.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\bin\Debug\net6.0\5.37 Type of parallelogram.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\bin\Debug\net6.0\5.37 Type of parallelogram.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\bin\Debug\net6.0\5.37 Type of parallelogram.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\bin\Debug\net6.0\5.37 Type of parallelogram.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\5.37 Type of parallelogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\5.37 Type of parallelogram.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\5.37 Type of parallelogram.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\5.37 Type of parallelogram.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\5.37 Type of parallelogram.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\refint\5.37 Type of parallelogram.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\5.37 Type of parallelogram.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\5.37 Type of parallelogram.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.37 Type of parallelogram\5.37 Type of parallelogram\obj\Debug\net6.0\ref\5.37 Type of parallelogram.dll

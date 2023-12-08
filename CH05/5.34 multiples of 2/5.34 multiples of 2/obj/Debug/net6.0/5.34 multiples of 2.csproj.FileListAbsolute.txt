@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\bin\Debug\net6.0\5.34 multiples of 2.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\bin\Debug\net6.0\5.34 multiples of 2.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\bin\Debug\net6.0\5.34 multiples of 2.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\bin\Debug\net6.0\5.34 multiples of 2.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\bin\Debug\net6.0\5.34 multiples of 2.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\5.34 multiples of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\5.34 multiples of 2.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\5.34 multiples of 2.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\5.34 multiples of 2.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\5.34 multiples of 2.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\refint\5.34 multiples of 2.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\5.34 multiples of 2.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\5.34 multiples of 2.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.34 multiples of 2\5.34 multiples of 2\obj\Debug\net6.0\ref\5.34 multiples of 2.dll

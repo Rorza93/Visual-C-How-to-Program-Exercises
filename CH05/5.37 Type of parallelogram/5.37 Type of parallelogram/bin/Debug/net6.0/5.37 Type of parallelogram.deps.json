@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "5.37 Type of parallelogram/1.0.0": {
+        "runtime": {
+          "5.37 Type of parallelogram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5.37 Type of parallelogram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
