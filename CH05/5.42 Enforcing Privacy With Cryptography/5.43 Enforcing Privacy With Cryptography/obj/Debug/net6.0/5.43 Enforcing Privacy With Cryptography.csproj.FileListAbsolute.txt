@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\bin\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\bin\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\bin\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\bin\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\bin\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\refint\5.43 Enforcing Privacy With Cryptography.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\5.43 Enforcing Privacy With Cryptography.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.43 Enforcing Privacy With Cryptography\5.43 Enforcing Privacy With Cryptography\obj\Debug\net6.0\ref\5.43 Enforcing Privacy With Cryptography.dll

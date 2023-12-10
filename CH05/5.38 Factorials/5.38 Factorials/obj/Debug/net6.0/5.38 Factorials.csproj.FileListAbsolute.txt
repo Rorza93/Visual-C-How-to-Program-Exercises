@@ -1,0 +1,14 @@
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\bin\Debug\net6.0\5.38 Factorials.exe
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\bin\Debug\net6.0\5.38 Factorials.deps.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\bin\Debug\net6.0\5.38 Factorials.runtimeconfig.json
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\bin\Debug\net6.0\5.38 Factorials.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\bin\Debug\net6.0\5.38 Factorials.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\5.38 Factorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\5.38 Factorials.AssemblyInfoInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\5.38 Factorials.AssemblyInfo.cs
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\5.38 Factorials.csproj.CoreCompileInputs.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\5.38 Factorials.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\refint\5.38 Factorials.dll
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\5.38 Factorials.pdb
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\5.38 Factorials.genruntimeconfig.cache
+C:\Users\Ridge Right\Documents\Code\C#\MyCSharp\CH05\5.38 Factorials\5.38 Factorials\obj\Debug\net6.0\ref\5.38 Factorials.dll
